@@ -1,0 +1,34 @@
+	Entrenador	DR	equipos	Partidos	victorias	Sorteos	Vencer.	Lentes	% puntos
+1	Javier Aguirre	01.12.1958	Mallorca	9	4	1	4	13	48.15
+2	Imanol Alguacil	04.07.1971	real sociedad	38	17	11	10	62	54.39
+3	Carlo Ancelotti	10.06.1959	Real Madrid	38	26	8	4	86	75.44
+4	Jagoba Arrasate	22.04.1978	Osasuna	38	12	11	15	47	41.23
+5	Sergi Barhuán	28.12.1971	Barcelona	2	0	2	0	2	33.33
+6	José Bordalás	05.03.1964	Valencia	38	11	15	12	48	42.11
+7	Julio Velásquez	05.10.1981	Alavés	8	3	0	5	9	37.50
+8	Plaza Luis García	01.12.1972	Mallorca	29	6	8	15	26	29.89
+9	Marcelino García Toral	14.08.1965	Atlético B	38	14	13	11	55	48.25
+10	Michel González	23.03.1963	Getafe	8	0	1	7	1	4.17
+11	Sergio González	10.11.1976	Cádiz	18	6	7	5	25	46.30
+12	Andoni Iraola	22.06.1982	Rayo Vallecano	38	11	9	18	42	36.84
+13	Javier Revilla Calleja	12.05.1978	Alavés	18	4	3	11	15	27.78
+14	Aitor Caranca	18.09.1973	Granada	6	2	3	1	9	50.00
+15	Eduardo Herman Coudet	12.09.1974	Celta	38	12	10	16	46	40.35
+16	Ronald Koeman	21.03.1963	Barcelona	10	4	3	3	15	50.00
+17	Alessio Lissi	04.11.1985	Levante	23	8	4	11	28	40.58
+18	Paco López	19.09.1967	Levante	8	0	4	4	4	16.67
+19	Julen Lopetegui	28.08.1966	Sevilla	38	18	16	4	70	61.40
+20	Sergio Martínez Mantecón	08.06.1980	Elche	1	0	1	0	1	33.33
+21	José Luis Mendilibar	14.03.1961	Alavés	12	1	4	7	7	19.44
+22	Vicente París Moreno	26.10.1974	ingles	38	10	12	16	42	36.84
+23	Robert Moreno González	19.09.1977	Granada	27	5	10	12	25	30.86
+24	Manuel Pellegrini	16.09.1953	Betis	38	19	8	11	65	57.02
+25	Francisco Javier Pereira Mejía	13.05.1966	Levante	7	0	3	4	3	14.29
+26	Francisco Rodríguez	17.09.1978	Elche	23	9	3	11	30	43.48
+27	Álvaro Cervera	20.09.1965	Cádiz	20	2	8	10	14	23.33
+28	Diego Simeone	28.04.1970	Atlético M	38	21	8	9	71	62.28
+29	Rubén Torresilla	24.05.1979	Granada	5	1	1	3	4	26.67
+30	Quique Sánchez Flores	05.02.1965	Getafe	30	8	14	8	38	42.22
+31	Unai Emery	03.11.1971	Villarreal	38	16	11	11	59	51.75
+32	Javier Hernández	25.01.1980	Барселона	26	17	5	4	56	71.79
+33	Fran Escriba	03.05.1965	Эльче	14	2	5	7	11	26.19

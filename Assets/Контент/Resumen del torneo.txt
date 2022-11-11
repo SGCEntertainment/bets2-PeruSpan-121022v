@@ -1,0 +1,13 @@
+Partidos totales	380
+partidos jugados	380	100%
+Victorias locales	165	43,4%
+Sorteos	111	29,2%
+victorias fuera	104	27,4%
+Goles anotados	951
+Goles marcados por los anfitriones	540	56,8%
+Goles marcados por invitados	411	43,2%
+Promedio de goles por partido	2.5
+Goles por partido (anfitriones)	1.4
+Promedio de goles por partido (fuera)	1.1
+Espectadores totales	7 367 062
+Espectadores por partido	22 738

@@ -1,0 +1,381 @@
+Recorrido	Fecha y hora		Controlar
+1	13.08.2021 22:00	Valencia - Getafe	1 : 0
+1	14.08.2021 20:30	Cádiz - Levante	1 : 1
+1	14.08.2021 20:30	Mallorca - Betis	1 : 1
+1	14.08.2021 23:00	Osasuna - Espanyol	0 : 0
+1	14.08.2021 23:00	Alavés - Real Madrid	1 : 4
+1	15.08.2021 18:30	Celta - Atlético M	1 : 2
+1	15.08.2021 21:00	Barcelona - RealSociedad	4 : 2
+1	15.08.2021 23:15	Sevilla - Rayo Vallecano	3 : 0
+1	16.08.2021 21:00	Villareal - Granada	0 : 0
+1	16.08.2021 23:00	Elche – Atlético B	0 : 0
+2	20.08.2021 22:00	Betis - Cádiz	1 : 1
+2	21.08.2021 18:00	Alavés - Mallorca	0 : 1
+2	21.08.2021 20:30	Granada - Valencia	1 : 1
+2	21.08.2021 20:30	Espanyol - Villarreal	0 : 0
+2	21.08.2021 23:00	Atlético B – Barcelona	1 : 1
+2	22.08.2021 18:00	Real Sociedad - Rayo Vallecano	1 : 0
+2	22.08.2021 20:30	Atlético M - Elche	1 : 0
+2	22.08.2021 23:00	Levante – Real Madrid	3 : 3
+2	23.08.2021 21:00	Getafe – Sevilla	0 : 1
+2	23.08.2021 23:00	Osasuna - Celta	0 : 0
+3	27.08.2021 21:00	Mallorca – Espanyol	1 : 0
+3	27.08.2021 23:15	Valencia - Alavés	3 : 0
+3	28.08.2021 18:00	Celta - Atlético B	0 : 1
+3	28.08.2021 20:30	Real Sociedad - Levante	1 : 0
+3	28.08.2021 20:30	Elche – Sevilla	1 : 1
+3	28.08.2021 23:00	Betis - Real Madrid	0 : 1
+3	29.08.2021 18:00	Barcelona - Getafe	2 : 1
+3	29.08.2021 20:30	Cádiz - Osasuna	2 : 3
+3	29.08.2021 20:30	Rayo Vallecano - Granada	4 : 0
+3	29.08.2021 23:00	Atlético M - Villarreal	2 : 2
+4	11.09.2021 19:30	Levante - Rayo Vallecano	1 : 1
+4	11.09.2021 22:00	Atlético B - Mallorca	2 : 0
+4	12.09.2021 15:00	Espanyol - Atlético M	1 : 2
+4	12.09.2021 17:15	Osasuna - Valencia	1 : 4
+4	12.09.2021 19:30	Cádiz – Real Sociedad	0 : 2
+4	12.09.2021 22:00	Real Madrid - Celta de Vigo	5 : 2
+4	13.09.2021 21:00	Getafe - Elche	0 : 1
+4	13.09.2021 23:00	Granada - Betis	1 : 2
+5	17.09.2021 22:00	Celta - Cádiz	1 : 2
+5	18.09.2021 15:00	Rayo Vallecano - Getafe	3 : 0
+5	18.09.2021 17:15	Atlético M – Atlético B	0 : 0
+5	18.09.2021 19:30	Elche – Levante	1 : 1
+5	18.09.2021 22:00	Alavés - Osasuna	0 : 2
+5	19.09.2021 15:00	Mallorca - Villarreal	0 : 0
+5	19.09.2021 17:15	Real Sociedad - Sevilla	0 : 0
+5	19.09.2021 19:30	Betis - Espanyol	2 : 2
+5	19.09.2021 22:00	Valencia - Real Madrid	1 : 2
+5	20.09.2021 22:00	Barcelona - Granada	1 : 1
+6	21.09.2021 20:30	Getafe - Atlético M	1 : 2
+6	21.09.2021 23:00	Levante - Celta	0 : 2
+6	21.09.2021 23:00	Atlético B - Rayo Vallecano	1 : 2
+6	22.09.2021 20:30	Espanyol - Alavés	1 : 0
+6	22.09.2021 20:30	Sevilla – Valencia	3 : 1
+6	22.09.2021 23:00	Villarreal – Elche	4 : 1
+6	22.09.2021 23:00	Real Madrid - Mallorca	6 : 1
+6	23.09.2021 20:30	Granada - RealSociedad	2 : 3
+6	23.09.2021 20:30	Osasuna - Betis	1 : 3
+6	23.09.2021 23:00	Cádiz - Barcelona	0 : 0
+7	25.09.2021 15:00	Alavés – Atlético M	1 : 0
+7	25.09.2021 17:15	Valencia – Atlético B	1 : 1
+7	25.09.2021 19:30	Sevilla – Espanyol	2 : 0
+7	25.09.2021 22:00	Real Madrid - Villarreal	0 : 0
+7	26.09.2021 15:00	Mallorca - Osasuna	2 : 3
+7	26.09.2021 17:15	Barcelona - Levante	3 : 0
+7	26.09.2021 19:30	Real Sociedad - Elche	1 : 0
+7	26.09.2021 19:30	Rayo Vallecano - Cádiz	3 : 1
+7	26.09.2021 22:00	Betis - Getafe	2 : 0
+7	27.09.2021 22:00	Celta - Granada	1 : 0
+8	01.10.2021 22:00	Atlético B - Alavés	1 : 0
+8	02.10.2021 15:00	Osasuna - Rayo Vallecano	1 : 0
+8	02.10.2021 17:15	Mallorca - Levante	1 : 0
+8	02.10.2021 19:30	Cádiz - Valencia	0 : 0
+8	02.10.2021 22:00	Atlético M - Barcelona	2 : 0
+8	03.10.2021 15:00	Elche - Celta	1 : 0
+8	03.10.2021 17:15	Espanyol - Real Madrid	2 : 1
+8	03.10.2021 19:30	Villarreal - Real Betis	2 : 0
+8	03.10.2021 19:30	Getafe - Real Sociedad	1 : 1
+8	03.10.2021 22:00	Granada – Sevilla	1 : 0
+9	16.10.2021 19:30	Levante - Getafe	0 : 0
+9	16.10.2021 22:00	Real Sociedad - Mallorca	1 : 0
+9	17.10.2021 15:00	Rayo Vallecano - Elche	2 : 1
+9	17.10.2021 17:15	Celta - Sevilla	0 : 1
+9	17/10/2021 19:30	Villarreal - Osasuna	1 : 2
+9	17.10.2021 22:00	Barcelona - Valencia	3 : 1
+9	18/10/2021 20:00	Alavés - Betis	0 : 1
+9	18/10/2021 22:00	Espanyol - Cádiz	2 : 0
+10	22.10.2021 22:00	Osasuna - Granada	1 : 1
+10	23.10.2021 15:00	Valencia - Mallorca	2 : 2
+10	23.10.2021 17:15	Cádiz - Alavés	0 : 2
+10	23.10.2021 19:30	Elche - Espanyol	2 : 2
+10	23.10.2021 22:00	Atlético B - Villarreal	2 : 1
+10	24.10.2021 15:00	Sevilla – Levante	5 : 3
+10	24.10.2021 17:15	Barcelona - Real Madrid	1 : 2
+10	24.10.2021 19:30	Betis - Rayo Vallecano	3 : 2
+10	24.10.2021 22:00	Atlético M – Real Sociedad	2 : 2
+10	25.10.2021 22:00	Getafe - Celta	0 : 3
+11	26.10.2021 20:00	Alavés - Elche	1 : 0
+11	26.10.2021 22:00	Espanyol - Atlético B	1 : 1
+11	26.10.2021 22:30	Villarreal - Cádiz	3 : 3
+11	27.10.2021 20:00	Rayo Vallecano - Barcelona	1 : 0
+11	27.10.2021 20:00	Mallorca – Sevilla	1 : 1
+11	27.10.2021 21:00	Betis - Valencia	4 : 1
+11	27.10.2021 22:30	Real Madrid - Osasuna	0 : 0
+11	28.10.2021 20:00	Celta - Real Sociedad	0 : 2
+11	28.10.2021 21:00	Granada - Getafe	1 : 1
+11	28.10.2021 22:30	Levante - Atlético M	2 : 2
+12	30.10.2021 15:00	Elche - Real Madrid	1 : 2
+12	30.10.2021 17:15	Sevilla - Osasuna	2 : 0
+12	30.10.2021 19:30	Valencia - Villarreal	2 : 0
+12	30.10.2021 22:00	Barcelona - Alavés	1 : 1
+12	31.10.2021 16:00	Cádiz - Mallorca	1 : 1
+12	31/10/2021 18:15	Atlético M – Real Betis	3 : 0
+12	31.10.2021 20:30	Getafe - Espanyol	2 : 1
+12	31.10.2021 23:00	Real Sociedad – Atlético B	1 : 1
+12	01.11.2021 20:30	Rayo Vallecano - Celta	0 : 0
+12	01.11.2021 23:00	Levante - Granada	0 : 3
+13	05.11.2021 23:00	Atlético B – Cádiz	0 : 1
+13	06.11.2021 16:00	Espanyol - Granada	2 : 0
+13	06.11.2021 18:15	Celta - Barcelona	3 : 3
+13	06.11.2021 20:30	Alavés - Levante	2 : 1
+13	06.11.2021 23:00	Real Madrid - Rayo Vallecano	2 : 1
+13	07.11.2021 16:00	Villarreal - Getafe	1 : 0
+13	07.11.2021 18:15	Valencia - Atlético M	3 : 3
+13	07.11.2021 20:30	Mallorca – Elche	2 : 2
+13	07.11.2021 20:30	Osasuna - Real Sociedad	0 : 2
+13	07.11.2021 23:00	Betis – Sevilla	0 : 2
+14	19/11/2021 23:00	Levante – Atlético B	0 : 0
+14	20.11.2021 16:00	Celta - Villarreal	1 : 1
+14	20.11.2021 18:15	Sevilla – Alavés	2 : 2
+14	20.11.2021 20:30	Atlético M - Osasuna	1 : 0
+14	20.11.2021 23:00	Barcelona - Espanyol	1 : 0
+14	21.11.2021 16:00	Getafe - Cadiz	4 : 0
+14	21.11.2021 18:15	Granada - Real Madrid	1 : 4
+14	21.11.2021 20:30	Elche - Betis	0 : 3
+14	21.11.2021 23:00	Real Sociedad - Valencia	0 : 0
+14	22.11.2021 23:00	Rayo Vallecano - Mallorca	3 : 1
+15	26.11.2021 23:00	Atlético B – Granada	2 : 2
+15	27.11.2021 16:00	Alavés - Celta	1 : 2
+15	27.11.2021 18:15	Valencia - Rayo Vallecano	1 : 1
+15	27.11.2021 20:30	Mallorca – Getafe	0 : 0
+15	27.11.2021 23:00	Villarreal – Barcelona	1 : 3
+15	28.11.2021 16:00	Betis – Levante	3 : 1
+15	28.11.2021 18:15	Espanyol - Real Sociedad	1 : 0
+15	28.11.2021 20:30	Cádiz – Atlético M	1 : 4
+15	28.11.2021 23:00	Real Madrid - Sevilla	2 : 1
+15	29.11.2021 23:00	Osasuna - Elche	1 : 1
+9	01.12.2021 23:00	Real Madrid - Atlético B	1 : 0
+16	03.12.2021 23:00	Granada - Alavés	2 : 1
+16	04.12.2021 16:00	Sevilla - Villarreal	1 : 0
+16	04.12.2021 18:15	Barcelona - Betis	0 : 1
+16	04.12.2021 20:30	Atlético M - Mallorca	1 : 2
+16	04.12.2021 23:00	Real Sociedad - Real Madrid	0 : 2
+16	05.12.2021 16:00	Rayo Vallecano – Espanyol	1 : 0
+16	05.12.2021 18:15	Elche - Cádiz	3 : 1
+16	05.12.2021 20:30	Levante - Osasuna	0 : 0
+16	05.12.2021 23:00	Celta - Valencia	1 : 2
+16	06.12.2021 23:00	Getafe - Atlético B	0 : 0
+17	10.12.2021 23:00	Mallorca - Celta	0 : 0
+17	11.12.2021 16:00	Espanyol - Levante	4 : 3
+17	11.12.2021 18:15	Alavés - Getafe	1 : 1
+17	11.12.2021 20:30	Valencia - Elche	2 : 1
+17	11.12.2021 23:00	Atlético B - Sevilla	0 : 1
+17	12.12.2021 16:00	Villarreal - Rayo Vallecano	2 : 0
+17	12/12/2021 18:15	Osasuna - Barcelona	2 : 2
+17	12.12.2021 20:30	Betis - Real Sociedad	4 : 0
+17	12.12.2021 23:00	Real Madrid - Atlético M	2 : 0
+17	13.12.2021 23:00	Cádiz - Granada	1 : 1
+18	17/12/2021 23:00	Celta - Espanyol	3 : 1
+18	18.12.2021 16:00	Rayo Vallecano - Alavés	2 : 0
+18	18.12.2021 18:15	Real Sociedad - Villarreal	1 : 3
+18	18.12.2021 20:30	Barcelona – Elche	3 : 2
+18	18.12.2021 23:00	Sevilla - Atlético M	2 : 1
+18	19.12.2021 16:00	Granada - Mallorca	4 : 1
+18	19.12.2021 18:15	Atlético B – Real Betis	3 : 2
+18	19.12.2021 20:30	Getafe - Osasuna	1 : 0
+18	19.12.2021 23:00	Real Madrid - Cádiz	0 : 0
+18	20.12.2021 23:00	Levante - Valencia	3 : 4
+4	21.12.2021 21:00	Villarreal - Alavés	5 : 2
+4	21.12.2021 23:30	Sevilla – Barcelona	1 : 1
+9	22.12.2021 21:00	Granada - Atlético M	2 : 1
+21	22.12.2021 23:30	Atlético B - Real Madrid	1 : 2
+19	31/12/2021 18:15	Valencia - Espanyol	1 : 2
+19	02.01.2022 16:00	Getafe - Real Madrid	1 : 0
+19	02.01.2022 18:15	Elche - Granada	0 : 0
+19	02.01.2022 18:15	Atlético M - Rayo Vallecano	2 : 0
+19	02.01.2022 20:30	Alavés - Real Sociedad	1 : 1
+19	02.01.2022 20:30	Betis - Celta	0 : 2
+19	02.01.2022 23:00	Mallorca - Barcelona	0 : 1
+19	03.01.2022 21:00	Villarreal – Levante	5 : 0
+19	03.01.2022 23:00	Osasuna - Atlético B	1 : 3
+19	03.01.2022 23:15	Cádiz – Sevilla	0 : 1
+20	08.01.2022 16:00	Levante - Mallorca	2 : 0
+20	08.01.2022 18:15	Real Sociedad - Celta de Vigo	1 : 0
+20	08.01.2022 20:30	Granada - Barcelona	1 : 1
+20	08.01.2022 23:00	Real Madrid - Valencia	4 : 1
+20	09.01.2022 16:00	Rayo Vallecano - Betis	1 : 1
+20	09.01.2022 18:15	Sevilla – Getafe	1 : 0
+20	09.01.2022 20:30	Osasuna - Cádiz	2 : 0
+20	09.01.2022 20:30	Alavés – Atlético B	0 : 0
+20	09.01.2022 23:00	Villarreal - Atlético M	2 : 2
+20	10.01.2022 23:00	Espanyol - Elche	1 : 2
+21	16.01.2022 16:00	Elche - Villarreal	1 : 0
+21	18.01.2022 22:00	Betis - Alavés	4 : 0
+21	18.01.2022 23:30	Cádiz - Espanyol	2 : 2
+21	19.01.2022 21:00	Celta - Osasuna	2 : 0
+21	19.01.2022 23:30	Valencia – Sevilla	1 : 1
+21	20.01.2022 21:00	Getafe - Granada	4 : 2
+22	21.01.2022 23:00	Espanyol - Betis	1 : 4
+22	22.01.2022 16:00	Levante - Cádiz	0 : 2
+22	22.01.2022 18:15	Villarreal - Mallorca	3 : 0
+22	22.01.2022 20:30	Sevilla - Celta	2 : 2
+22	22.01.2022 23:00	Atlético M - Valencia	3 : 2
+22	23.01.2022 16:00	Granada - Osasuna	0 : 2
+22	23.01.2022 18:15	Real Madrid - Elche	2 : 2
+22	23.01.2022 20:30	Rayo Vallecano - Athletic Club B	0 : 1
+22	23.01.2022 20:30	Real Sociedad - Getafe	0 : 0
+22	23.01.2022 23:00	Alavés - Barcelona	0 : 1
+23	04.02.2022 23:00	Getafe - Levante	3 : 0
+23	05.02.2022 16:00	Elche - Alavés	3 : 1
+23	05.02.2022 18:15	Mallorca - Cádiz	2 : 1
+23	05.02.2022 20:30	Celta - Rayo Vallecano	2 : 0
+23	05.02.2022 23:00	Osasuna - Sevilla	0 : 0
+23	06.02.2022 16:00	Valencia - Real Sociedad	0 : 0
+23	06.02.2022 18:15	Barcelona - Atlético M	4 : 2
+23	06.02.2022 20:30	Betis - Villarreal	0 : 2
+23	06.02.2022 23:00	real madrid - Гранада	1 : 0
+23	07.02.2022 23:00	Atlético B – Espanyol	2 : 1
+24	11.02.2022 23:00	Sevilla – Elche	2 : 0
+24	02.12.2022 16:00	Cádiz - Celta	0 : 0
+24	02.12.2022 18:15	Villarreal - Real Madrid	0 : 0
+24	12.02.2022 20:30	Rayo Vallecano - Osasuna	0 : 3
+24	02.12.2022 23:00	Atlético M - Getafe	4 : 3
+24	13.02.2022 16:00	Alavés - Valencia	2 : 1
+24	13.02.2022 18:15	Levante - Real Betis	2 : 4
+24	13.02.2022 20:30	Real Sociedad - Granada	2 : 0
+24	13.02.2022 23:00	Espanyol - Barcelona	2 : 2
+24	14.02.2022 23:00	Mallorca – Atlético B	3 : 2
+21	16.02.2022 21:00	Atlético M - Levante	0 : 1
+25	18.02.2022 23:00	Elche - Rayo Vallecano	2 : 1
+25	19.02.2022 16:00	Granada - Villarreal	1 : 4
+25	19.02.2022 18:15	Osasuna - Atlético M	0 : 3
+25	19.02.2022 20:30	Cádiz - Getafe	1 : 1
+25	19.02.2022 23:00	Real Madrid - Alavés	3 : 0
+25	20.02.2022 16:00	Espanyol - Sevilla	1 : 1
+25	20.02.2022 18:15	Valencia – Barcelona	1 : 4
+25	20.02.2022 20:30	Betis - Mallorca	2 : 1
+25	20.02.2022  23:00	Atlético B – Real Sociedad	4 : 0
+25	21.02.2022 23:00	Celta - Levante	1 : 1
+26	25.02.2022 23:00	Levante - Elche	3 : 0
+26	26.02.2022 16:00	Mallorca - Valencia	0 : 1
+26	26.02.2022 18:15	Getafe - Alavés	2 : 2
+26	26.02.2022 20:30	Rayo Vallecano – Real Madrid	0 : 1
+26	26.02.2022 23:00	Atlético M - Celta	2 : 0
+26	27.02.2022 16:00	Villarreal - Espanyol	5 : 1
+26	27.02.2022 18:15	Sevilla - Бетис	2 : 1
+26	27.02.2022 20:30	Real Sociedad - Osasuna	1 : 0
+26	27.02.2022 23:00	Barcelona – Atlético B	4 : 0
+26	28.02.2022 23:00	Granada - Cádiz	0 : 0
+21	02/03/2022 23:00	Mallorca – Real Sociedad	0 : 2
+27	04.03.2022 23:00	Alavés – Sevilla	0 : 0
+27	05.03.2022 16:00	Osasuna - Villarreal	1 : 0
+27	05/03/2022 18:15	Espanyol - Getafe	2 : 0
+27	05.03.2022 20:30	Valencia - Granada	3 : 1
+27	05.03.2022 23:00	Real Madrid - Real Sociedad	4 : 1
+27	06.03.2022 16:00	Cádiz - Rayo Vallecano	2 : 0
+27	06.03.2022 18:15	Elche – Barcelona	1 : 2
+27	06.03.2022 20:30	Celta - Mallorca	4 : 3
+27	06.03.2022 23:00	Betis - Atlético M	1 : 3
+27	07.03.2022 23:00	Atlético B - Levante	3 : 1
+28	11.03.2022  23:00	Atlético M – Cádiz	2 : 1
+28	12.03.2022 16:00	Levante - Espanyol	1 : 1
+28	03.12.2022 18:15	Granada - Elche	0 : 1
+28	03.12.2022 20:30	Villarreal - Celta	1 : 0
+28	12.03.2022 23:00	Getafe - Valencia	0 : 0
+28	13.03.2022 16:00	Rayo Vallecano – Sevilla	1 : 1
+28	13.03.2022 18:15	Betis - Athletic B	1 : 0
+28	13.03.2022 20:30	Real Sociedad - Alavés	1 : 0
+28	13.03.2022 23:00	barcelona- _ Осасуна	4 : 0
+28	14.03.2022 23:00	Mallorca - Real Madrid	0 : 3
+29	18.03.2022 23:00	Atlético B- Хетафе	1 : 1
+29	19.03.2022 16:00	Alavés - Granada	2 : 3
+29	19.03.2022 18:15	Elche - Valencia	0 : 1
+29	19.03.2022 20:30	Osasuna - Levante	3 : 1
+29	19.03.2022 23:00	Rayo Vallecano - Atlético M	0 : 1
+29	20.03.2022 16:00	Espanyol - Mallorca	1 : 0
+29	20.03.2022 18:15	Cádiz - Villarreal	1 : 0
+29	20.03.2022 18:15	Celta - Betis	0 : 0
+29	20.03.2022 20:30	Sevilla vs Real Sociedad	0 : 0
+29	20.03.2022 23:00	Real Madrid - Barcelona	0 : 4
+30	02/04/2022 15:00	Getafe - Mallorca	1 : 0
+30	02/04/2022 17:15	Levante - Villarreal	2 : 0
+30	02/04/2022 19:30	Celta - Real Madrid	1 : 2
+30	02/04/2022 22:00	Atlético M - Alavés	4 : 1
+30	03/04/2022 15:00	Atlético B - Elche	2 : 1
+30	03/04/2022 17:15	Betis - Osasuna	4 : 1
+30	03/04/2022 19:30	Valencia - Cádiz	0 : 0
+30	03/04/2022 19:30	Granada - Rayo Vallecano	2 : 2
+30	03/04/2022 22:00	Barcelona – Sevilla	1 : 0
+30	04/04/2022 22:00	Real Sociedad - Espanyol	1 : 0
+31	08/04/2022 22:00	Sevilla – Granada	4 : 2
+31	09/04/2022 15:00	Cádiz - Betis	1 : 2
+31	09/04/2022 17:15	Mallorca - Atlético M	1 : 0
+31	09/04/2022 19:30	Villarreal – Atlético B	1 : 1
+31	09/04/2022 22:00	Real Madrid – Хетафе	2 : 0
+31	10.04.2022 15:00	Osasuna - Alavés	1 : 0
+31	10.04.2022 17:15	Espanyol - Celta	1 : 0
+31	10.04.2022 19:30	Elche - Real Sociedad	1 : 2
+31	10.04.2022 22:00	Levante - Barcelona	2 : 3
+31	11.04.2022 22:00	Rayo Vallecano – Valencia	1 : 1
+32	15.04.2022 22:00	Real Sociedad - Real Betis	0 : 0
+32	16.04.2022 15:00	Elche - Mallorca	3 : 0
+32	16.04.2022 17:15	Alavés - Rayo Vallecano	1 : 0
+32	16.04.2022 19:30	Valencia vs Osasuna	1 : 2
+32	16.04.2022 22:00	Getafe - Villarreal	1 : 2
+32	17.04.2022 15:00	Granada - Levante	1 : 4
+32	17.04.2022  17:15	Atlético M - Espanyol	2 : 1
+32	17.04.2022 19:30	Atlético B - Celta de Vigo	0 : 2
+32	17.04.2022 22:00	Sevilla - Real Madrid	2 : 3
+32	18.04.2022 22:00	Barcelona - Cádiz	0 : 1
+33	19.04.2022 20:00	Mallorca - Alavés	2 : 1
+33	19.04.2022 22:00	Betis - Elche	0 : 1
+33	19.04.2022 22:30	Villarreal - Valencia	2 : 0
+33	20.04.2022 20:00	Atlético M - Granada	0 : 0
+33	20.04.2022 21:00	Celta - Getafe	0 : 2
+33	20.04.2022 22:30	Osasuna - Real Madrid	1 : 3
+33	21.04.2022 20:00	Espanyol - Rayo Vallecano	0 : 1
+33	21.04.2022 20:00	Levante – Sevilla	2 : 3
+33	21.04.2022 21:00	Cádiz – Atlético B	2 : 3
+33	21.04.2022 22:30	Real Sociedad - Barcelona	0 : 1
+21	24.04.2022 22:00	Barcelona - Rayo Vallecano	0 : 1
+34	29.04.2022 22:00	Sevilla – Cádiz	1 : 1
+34	30.04.2022 15:00	Alavés - Villarreal	2 : 1
+34	30/04/2022 17:15	Real Madrid - Espanyol	4 : 0
+34	30/04/2022 19:30	Valencia – Levante	1 : 1
+34	30.04.2022 22:00	Atlético B – Atlético M	2 : 0
+34	01/05/2022 15:00	Elche - Osasuna	1 : 1
+34	01.05.2022 17:15	Granada - Celta	1 : 1
+34	01/05/2022 19:30	Rayo Vallecano - Real Sociedad	1 : 1
+34	01/05/2022 22:00	Barcelona - Mallorca	2 : 1
+34	02.05.2022 22:00	Getafe - Betis	0 : 0
+35	06/05/2022 22:00	Levante – Real Sociedad	2 : 1
+35	07.05.2022 15:00	Mallorca - Granada	2 : 6
+35	07.05.2022 17:15	Atlético B - Valencia	0 : 0
+35	07/05/2022 19:30	Celta - Alavés	4 : 0
+35	07/05/2022 19:30	Cádiz - Elche	3 : 0
+35	07.05.2022 22:00	Betis - Barcelona	1 : 2
+35	08.05.2022 15:00	Getafe - Rayo Vallecano	0 : 0
+35	08.05.2022 17:15	Villarreal – Sevilla	1 : 1
+35	08/05/2022 19:30	Espanyol- _ Осасуна	1 : 1
+35	08.05.2022 22:00	Atlético M – Real Madrid	1 : 0
+36	10.05.2022 20:00	Valencia - Betis	0 : 3
+36	10.05.2022 21:00	Granada – Atlético B	1 : 0
+36	10.05.2022 22:30	Barcelona - Celta	3 : 1
+36	11.05.2022 20:00	Osasuna - Getafe	1 : 1
+36	11.05.2022 20:00	Alavés - Espanyol	2 : 1
+36	11.05.2022 21:30	Sevilla – Mallorca	0 : 0
+36	11.05.2022 22:30	Elche - Atlético M	0 : 2
+36	12.05.2022 20:00	Real Sociedad – Cádiz	3 : 0
+36	12.05.2022 21:00	Rayo Vallecano - Villarreal	1 : 5
+36	12.05.2022 22:30	Real Madrid - Levante	6 : 0
+37	14.05.2022 19:30	Espanyol vs Valencia	1 : 1
+37	15.05.2022 20:30	Celta - Elche	1 : 0
+37	15.05.2022 20:30	Betis - Granada	2 : 0
+37	15.05.2022 20:30	Atlético M - Sevilla	1 : 1
+37	15.05.2022 20:30	Atlético B - Osasuna	2 : 0
+37	15.05.2022 20:30	Villarreal - Real Sociedad	1 : 2
+37	15.05.2022 20:30	Getafe - Barcelona	0 : 0
+37	15.05.2022 20:30	Cádiz - Real Madrid	1 : 1
+37	15.05.2022 20:30	Levante - Alavés	3 : 1
+37	15.05.2022 20:30	Mallorca - Rayo Vallecano	2 : 1
+38	20.05.2022 22:00	Rayo Vallecano - Levante	2 : 4
+38	20.05.2022 22:00	Real Madrid - Real Betis	0 : 0
+38	21.05.2022 18:30	Valencia - Celta	2 : 0
+38	22.05.2022 18:30	Elche - Getafe	3 : 1
+38	22.05.2022 21:00	Granada - Espanyol	0 : 0
+38	22.05.2022 21:00	Osasuna - Mallorca	0 : 2
+38	22.05.2022 21:00	Alavés - Cádiz	0 : 1
+38	22.05.2022 23:00	Real Sociedad – Atlético M	1 : 2
+38	22.05.2022 23:00	Sevilla - Atlético B	1 : 0
+38	22.05.2022 23:00	Barcelona - Villarreal	0 : 2

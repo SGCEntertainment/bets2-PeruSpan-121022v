@@ -1,0 +1,21 @@
+Equipo	Y	A	H	PAGS	pelotas	O	% puntos	La forma
+1	Real Madrid	19	13	5	1	44-13	44	77,2
+2	Sevilla	19	12	6	1	36-17	42	73,7
+3	Atlético M	19	12	5	2	33-16	41	71,9
+4	Barcelona	19	12	2	5	37-19	38	66,7
+5	Villarreal	19	10	6	3	40-18	36	63,2
+6	real sociedad	19	10	5	4	16-9	35	61,4
+7	Atlético B	19	10	4	5	29-18	34	59,6
+8	ingles	19	9	6	4	25-19	33	57,9
+9	Betis	19	10	2	7	34-22	32	56,1
+10	Rayo Vallecano	19	8	5	6	26-22	29	50,9
+11	Getafe	19	7	7	5	21-15	28	49,1
+12	Elche	19	7	6	6	24-21	27	47,4
+13	Mallorca	19	7	6	6	20-25	27	47,4
+14	Valencia	19	6	8	5	26-24	26	45,6
+15	Celta	19	7	4	8	26-23	25	43,9
+16	Alavés	19	7	4	8	17-21	25	43,9
+17	Levante	19	5	7	7	28-30	22	38,6
+18	Granada	19	5	7	7	22-29	22	38,6
+19	Osasuna	19	5	7	7	17-26	22	38,6
+20	Cádiz	19	3	9	7	19-24	18	31,6

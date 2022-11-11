@@ -1,0 +1,7 @@
+Controlar	        7	Sevilla - Levante ( 5:3 )
+		                Mallorca - Granada ( 2:6 )
+Victoria	        6	Real Madrid - Levante ( 6 : 0 )
+victoria en casa	6	Real Madrid - Levante ( 6 : 0 )
+Victoria fuera de casa	cuatro	Real Madrid - Barcelona ( 0:4 )
+		                Rayo Vallecano - Villarreal ( 1:5 )
+		                Mallorca - Granada ( 2:6 )
